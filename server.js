@@ -30,5 +30,4 @@ app.post("/contact", (req, res) => {
 
 app.listen(3000, function () {
   console.log("Server is lestening on port 3000");
-  console.log("");
 });
